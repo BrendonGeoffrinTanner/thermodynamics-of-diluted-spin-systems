@@ -34,7 +34,7 @@ Ce projet regroupe plusieurs scripts Python permettant de modéliser et d'analys
 Installation :
 ```bash
 pip install numpy scipy pandas matplotlib
-
+```
 ## Utilisation
 
 ### Étape 1 : Placer les clusters
